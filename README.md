@@ -1,1 +1,1 @@
-[Please visit our github project](https://github.com/OBorovec/walkingFriendlyNeighborhood)
+[Please visit our github project](https://github.com/OBorovec/moveesy)
